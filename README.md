@@ -11,11 +11,12 @@ Sem banco de dados —> armazenamento em memória
 
 ### Instale as dependências
 ```
-npm install
+npm install express
 ```
 
 ### Para iniciar o servidor
 ```
+cd projeto-tarefas
 npm start
 # ou
 node src/index.js
