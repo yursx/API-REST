@@ -72,7 +72,9 @@ GET servidor/tarefas:
 
 ### Prints 
 
-As imagens dos testes estão na pasta /prints:
+As imagens dos testes estão em: [**Pasta de Prints**](projeto-tarefas/prints)
+
+---
 
 prints/get.png
 
